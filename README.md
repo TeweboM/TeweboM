@@ -4,7 +4,7 @@
 ---
 
 ## 🌟 About Me
-- 🎓 Civil Engineering graduate with special interest **in Computer Programming**
+- 🎓 Civil Engineering Professional with special interest **in Computer Programming**
 - 📊 Transitioned into **Data Science** with hands-on experience in:
   - Machine Learning (Classification, Random Forests, CNNs, Vision Transformers)
   - Data Analysis (EDA, Feature Engineering, Statistical Modeling)
